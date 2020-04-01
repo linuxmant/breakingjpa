@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=ar.com.elegantsoft.breakingjpa.BreakingjpaApplication
